@@ -1,0 +1,12 @@
+intents:
+  - saudacao
+  - despedida
+  - pergunta
+
+responses:
+  utter_saudacao:
+    - text: "Olá! Como posso ajudar você hoje?"
+  utter_despedida:
+    - text: "Até logo!"
+  utter_pergunta:
+    - text: "Pode detalhar sua dúvida?"
